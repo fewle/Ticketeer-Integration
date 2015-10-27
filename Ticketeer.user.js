@@ -9,9 +9,9 @@
 // ==/UserScript==
 
 var myTimeout;
-var apiKey = '';
-var userName = '';
-var passWord = '';
+var apiKey = localStorage.getItem('ticketeerApiKey');
+var userName = localStorage.getItem('ticketeerUser');
+var passWord = localStorage.getItem('ticketeerPassword');
     
 
 AJS.$(document).ready(function() {       

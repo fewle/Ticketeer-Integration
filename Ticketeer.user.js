@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ticketeer Integration
 // @namespace    my.Home
-// @version      0.1
+// @version      0.2
 // @description  Creates a ticketeer ticket
 // @author       Erik Österholm
 // @grant        none
